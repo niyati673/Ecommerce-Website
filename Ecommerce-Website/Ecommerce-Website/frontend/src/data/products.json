@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Small Terracotta Clay Designed Matka",
+    "category": "ceramic",
+    "cost": "₹3,999",
+    "color": "brown",
+    "description": "Crafted with care, features intricate designs, a traditional Indian aesthetic.",
+    "image": "/src/assets/home/p1.png"
+  },
+  {
+    "id": 2,
+    "name": "Floral Vintage Decoration Ceramic Plate",
+    "category": "dinnerware",
+    "cost": "₹2,499",
+    "color": "white",
+    "description": "Exquisite floral ceramic plate, intricate hand-painted details, perfect for decor.",
+    "image": "/src/assets/home/p2.png"
+  },
+  {
+    "id": 3,
+    "name": "Hand-Painted Rajasthani Decorative Vase",
+    "category": "decor_art",
+    "cost": "₹4,499",
+    "color": "multi",
+    "description": "Beautiful vase featuring Rajasthani artwork, perfect for cultural decor.",
+    "image": "/src/assets/home/p3.png"
+  },
+  {
+    "id": 4,
+    "name": "Hand-Painted Decor Folk Art Vase",
+    "category": "gift_sets",
+    "cost": "₹4,499",
+    "color": "earthy",
+    "description": "Traditional vase with intricate Rajasthani motifs in earthy tones.",
+    "image": "/src/assets/home/p4.png"
+  },
+  {
+    "id": 5,
+    "name": "Floral Hand-painted Decorative Plate",
+    "category": "gift_sets",
+    "cost": "₹2,499",
+    "color": "multi",
+    "description": "Colorful plate featuring lotus flowers, ideal for elegant decor.",
+    "image": "/src/assets/home/p5.png"
+  },
+  {
+    "id": 6,
+    "name": "Copper Hand Craved Plated Pot With Lid",
+    "category": "ceramic",
+    "cost": "₹4,499",
+    "color": "copper",
+    "description": "As copper increases food vitamins, good for health.",
+    "image": "/src/assets/home/p6.png"
+  },
+  {
+    "id": 7,
+    "name": "Hand Drawn Flower Table Colorful Vase",
+    "category": "decor_art",
+    "cost": "₹3,499",
+    "color": "white",
+    "description": "Enriches house natural beauty, and gives a nice feel.",
+    "image": "/src/assets/home/p7.png"
+  },
+  {
+    "id": 8,
+    "name": "Small Terracotta and Clay Tea Pots",
+    "category": "ceramic",
+    "cost": "₹1,499",
+    "color": "brown",
+    "description": "Enhance the authentic taste of natural hot tea, minimal design.",
+    "image": "/src/assets/home/p8.png"
+  },
+  {
+    "id": 9,
+    "name": "Cute, Small and Clay Flower Pots",
+    "category": "ceramic",
+    "cost": "₹2,999",
+    "color": "brown",
+    "description": "Hand-painted cute little window and work table flower pots.",
+    "image": "/src/assets/home/p19.png"
+  },
+  {
+    "id": 10,
+    "name": "Miniature Terracotta Folk Figurine",
+    "category": "decor_art",
+    "cost": "₹5,499",
+    "color": "multi",
+    "description": "Traditional Indian craftsmanship featuring vibrant, hand-painted details.",
+    "image": "/src/assets/home/p20.png"
+  },
+  {
+    "id": 11,
+    "name": "Handcrafted Madhubani Terracotta Vase",
+    "category": "decor_art",
+    "cost": "₹2,499",
+    "color": "multi",
+    "description": "Vibrant Madhubani art depicting birds on traditional pottery.",
+    "image": "/src/assets/home/p11.png"
+  },
+  {
+    "id": 12,
+    "name": "Rajasthani Hand-Painted Decor Plate",
+    "category": "dinnerware",
+    "cost": "₹2,999",
+    "color": "multi",
+    "description": "Traditional Rajasthani women artwork, vibrant colors on ceramic plate.",
+    "image": "/src/assets/home/p12.png"
+  },
+  {
+    "id": 13,
+    "name": "Colorful Handpainted Thali Set",
+    "category": "dinnerware",
+    "cost": "₹3,499",
+    "color": "multi",
+    "description": "Vibrant traditional Indian plate set with intricate floral and paisley designs.",
+    "image": "/src/assets/home/p13.png"
+  },
+  {
+    "id": 14,
+    "name": "Small Terracotta Diya Oil Lamp",
+    "category": "decor_art",
+    "cost": "₹999",
+    "color": "brown",
+    "description": "Traditional earthen lamp for festivals, rituals, and home decor lighting.",
+    "image": "/src/assets/home/p14.png"
+  },
+  {
+    "id": 15,
+    "name": "Hand-Painted Masala Dabba Set",
+    "category": "dinnerware",
+    "cost": "₹1,999",
+    "color": "multi",
+    "description": "Colorful ceramic spice containers with lids, inspired by traditional Indian art.",
+    "image": "/src/assets/home/p15.png"
+  },
+  {
+    "id": 16,
+    "name": "Handcrafted Rajasthani Spoon Set",
+    "category": "gift_sets",
+    "cost": "₹899",
+    "color": "multi",
+    "description": "Colorful hand-painted serving spoons featuring traditional Indian motifs.",
+    "image": "/src/assets/home/p16.png"
+  },
+  {
+    "id": 17,
+    "name": "Hand-Painted Kashmiri Enamel Kettle",
+    "category": "kitchenware",
+    "cost": "₹3,499",
+    "color": "blue",
+    "description": "Vibrant blue teapot with colorful floral motifs, traditional Indian design.",
+    "image": "/src/assets/home/p17.png"
+  },
+  {
+    "id": 18,
+    "name": "Terracotta Kulhad Chai Cup Set",
+    "category": "kitchenware",
+    "cost": "₹499",
+    "color": "brown",
+    "description": "Traditional clay tea cups with ethnic design, perfect for authentic chai.",
+    "image": "/src/assets/home/p18.png"
+  }
+]
